@@ -94,7 +94,9 @@ public class Hostel{
     	   
     	   return chk;
         }
-        
+        public static void Demo() {
+        	System.out.println("Inside Demo method.");
+        }
 
 		static String typeName(){
             Scanner sc = new Scanner(System.in);
