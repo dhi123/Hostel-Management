@@ -2,6 +2,6 @@ package main;
 
 public class Demo {
  public void m1() {
-	 System.out.println("inside M1");
+	 System.out.println("inside M1 ");
  }
 }

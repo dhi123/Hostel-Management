@@ -96,6 +96,7 @@ public class Hostel{
         }
         public static void Demo() {
         	System.out.println("Inside Demo method.");
+        	System.out.println("Adding first line ");
         	
         }
 
